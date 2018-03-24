@@ -1,0 +1,6 @@
+framework module TomTomOnlineUtils {
+  umbrella header "TomTomOnlineUtils.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module TomTomOnlineSDKRouting {
+  umbrella header "TomTomOnlineSDKRouting.h"
+
+  export *
+  module * { export * }
+}
